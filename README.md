@@ -1,2 +1,7 @@
 # Gamification-Direktorat-Digital-Business-Bandung-DDB-
-Gamification system for Direktorat Digital Business Bandung
+Web Gamification system for Direktorat Digital Business Bandung
+# Download File 
+# Synch Directory
+# Run
+# Happy Coding
+
